@@ -1,3 +1,8 @@
+### 🔐 What is Secrets in Kubernetes?
+
+In **Kubernetes**, a **Secret** is an object that stores **sensitive data**, such as passwords, OAuth tokens, SSH keys, API keys, and more. Secrets help to **avoid hardcoding sensitive information** directly in your Pods or container images.
+
+---
 ### 🔐 Why Use Secrets in Kubernetes?
 
 In a **real-world DevOps or Cloud project**, you often need to:
