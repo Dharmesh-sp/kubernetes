@@ -1,5 +1,11 @@
 ### To install **MetalLB** for your **NGINX Ingress Controller**, especially in a bare-metal or non-cloud Kubernetes cluster (like Minikube, K3s, or on-prem), follow these steps. MetalLB allows you to expose services of type `LoadBalancer`.
 
+### Video Reference 
+
+**25-Apr-2025** : https://cloudtechnetonline-my.sharepoint.com/:v:/g/personal/support_cloudtechnet_in/EXZfrBPHdm1DhhSpUgQwsI0B0HUbRmiFKiAT6Ez8yrZ43w?e=EmyBN0&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+**2626-Apr-2025** : https://cloudtechnetonline-my.sharepoint.com/:v:/g/personal/support_cloudtechnet_in/EWXsUz0alxdKlxdhYgkO6sMBJXwWOTsrm7Tx-cbrXw1HsA?e=npMKh6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
 ---
 
 ### ✅ Pre-requisites:
