@@ -1,3 +1,5 @@
+## NGINX Ingress Controller LAB Configuration Steps
+---
 ### To install **MetalLB** for your **NGINX Ingress Controller**, especially in a bare-metal or non-cloud Kubernetes cluster (like Minikube, K3s, or on-prem), follow these steps. MetalLB allows you to expose services of type `LoadBalancer`.
 
 ### Video Reference 
